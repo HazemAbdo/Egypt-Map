@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+map_srv/node_modules
+map_web/node_modules
+map_web/.env
